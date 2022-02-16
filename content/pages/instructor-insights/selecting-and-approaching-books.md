@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: b8167cbc-8898-72c4-287b-28bd9e255af6
 title: Selecting and Approaching Books
 uid: a41bee25-68c6-a42c-f056-1dfa653dbc3a
@@ -12,7 +15,7 @@ _In this section, Shariann Lewitt discusses the books she chose for the course, 
 Practical Considerations
 ------------------------
 
-I wanted books that were older in the canon of each genre. I didn't want more contemporary works that students may have already read because I wanted them to gain a sense of the depth of history, of field. I assume that all students love their genre, and that they've read deeply in it. There was one student I'd had in class before, and I knew she was a fantasy writer and had read just about every fantasy thing there was. From experience, I know students who take this course generally have read a lot of science fiction. I didn't have any mystery readers this time, which was a surprise; I was hoping to have one or two of them. I wanted them to read older pieces that were really well-written. I wanted them to be seeing good language and good literature. All of the fiction I chose is really good literature and would stand up in any survey of English-language literature. Dorothy Sayers, for example, shows up in many 20th\-century or British literature courses.
+I wanted books that were older in the canon of each genre. I didn't want more contemporary works that students may have already read because I wanted them to gain a sense of the depth of history, of field. I assume that all students love their genre, and that they've read deeply in it. There was one student I'd had in class before, and I knew she was a fantasy writer and had read just about every fantasy thing there was. From experience, I know students who take this course generally have read a lot of science fiction. I didn't have any mystery readers this time, which was a surprise; I was hoping to have one or two of them. I wanted them to read older pieces that were really well-written. I wanted them to be seeing good language and good literature. All of the fiction I chose is really good literature and would stand up in any survey of English-language literature. Dorothy Sayers, for example, shows up in many 20{{< sup "th" >}}\-century or British literature courses.
 
 Knowing the timing of the semester and what the students' workload is like, I have to select readings that are short enough so the students can manage. That does impose some limits, especially in fantasy and science fiction. There were some wonderful books I considered that I couldn't use because I just couldn't go over 100,000 words. It's too unwieldy, even though I think the students would have loved them.
 

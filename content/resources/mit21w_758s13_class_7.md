@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information regarding class 7.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21w-758-genre-fiction-workshop-spring-2013/cbcd76ead67e493a984522150471c98e_MIT21W_758S13_Class_7.pdf
+file: /media/courses/21w-758-genre-fiction-workshop-spring-2013/cbcd76ead67e493a984522150471c98e_MIT21W_758S13_Class_7.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Calendar and Readings
+parent_type: CourseSection
 resourcetype: Document
 title: Class 7
 uid: cbcd76ea-d67e-493a-9845-22150471c98e
