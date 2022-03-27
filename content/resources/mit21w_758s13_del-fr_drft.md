@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments and Student Work
 parent_type: CourseSection
+parent_uid: bb7af00c-1eb0-8407-9cd8-05166e8ba5ae
 resourcetype: Document
 title: "Deliberately \u2013 first draft"
 uid: 9b74b288-f671-e4c0-ba44-895d4d538368

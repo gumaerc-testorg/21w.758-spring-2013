@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Calendar and Readings
 parent_type: CourseSection
+parent_uid: 080849a4-a03f-02bc-56aa-00a7de16547f
 resourcetype: Document
 title: "Instructor\u2019s Notes"
 uid: 1397b1b4-0348-8dab-430f-fbc90f0d93fb

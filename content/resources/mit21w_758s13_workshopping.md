@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Calendar and Readings
 parent_type: CourseSection
+parent_uid: 080849a4-a03f-02bc-56aa-00a7de16547f
 resourcetype: Document
 title: 'Workshopping: The Rules of Engagement & The Mechanics'
 uid: c1fafcce-2444-1b3b-d1eb-cd875897c1f6

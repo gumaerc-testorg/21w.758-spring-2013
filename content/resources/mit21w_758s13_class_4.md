@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Calendar and Readings
 parent_type: CourseSection
+parent_uid: 080849a4-a03f-02bc-56aa-00a7de16547f
 resourcetype: Document
 title: Class 4
 uid: 4e65f744-6213-3701-ebf0-0049e8a85b74

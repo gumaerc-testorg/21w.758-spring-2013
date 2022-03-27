@@ -88,7 +88,7 @@ Wide variation, though most students were writing minors or concentrators.
 
 ### Typical Student Background
 
-The common interest of all the students in this course was a real love of whatever genre they read. They were all there to learn to write in one particular genre (almost all of them either science fiction or fantasy). Almost all had a previous writing class, primarily [_21W.755 Writing and Reading the Short Story_](./resolveuid/45bd5ede429f34a01018f9bd10d166d3) (the introductory fiction class at MIT), and several of them had one of the other introductory creative writing classes that emphasize creative non-fiction, poetry or autobiography. Many of them had been writing stories on their own for pleasure for a long time. Students brought a lot of enthusiasm to this class — they were deeply invested in the material and committed to improving their own work.
+The common interest of all the students in this course was a real love of whatever genre they read. They were all there to learn to write in one particular genre (almost all of them either science fiction or fantasy). Almost all had a previous writing class, primarily [_21W.755 Writing and Reading the Short Story_](/courses/21w-755-writing-and-reading-short-stories-spring-2012/) (the introductory fiction class at MIT), and several of them had one of the other introductory creative writing classes that emphasize creative non-fiction, poetry or autobiography. Many of them had been writing stories on their own for pleasure for a long time. Students brought a lot of enthusiasm to this class — they were deeply invested in the material and committed to improving their own work.
 
 ### Enrollment Cap
 

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments and Student Work
 parent_type: CourseSection
+parent_uid: bb7af00c-1eb0-8407-9cd8-05166e8ba5ae
 resourcetype: Document
 title: "How to Start a Zombie Apocalypse \u2013 first draft"
 uid: e2a7b587-a6cf-679d-445e-87fbd8df70c0

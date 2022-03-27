@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Teaching Students to Challenge Texts: "What is Fantasy?"'
 parent_type: CourseSection
+parent_uid: fad41871-0fb2-17fb-3f21-37562bb344c9
 resourcetype: Image
 title: Image_1.jpg
 uid: 8ed30eca-e5f5-5b9d-156a-489777cdacb2

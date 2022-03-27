@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments and Student Work
 parent_type: CourseSection
+parent_uid: bb7af00c-1eb0-8407-9cd8-05166e8ba5ae
 resourcetype: Document
 title: "The Haunting of Belfer \u2013 revised"
 uid: be831bc0-7d43-e62b-0a5e-a6ab3c518e11
