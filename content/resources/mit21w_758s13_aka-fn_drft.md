@@ -5,6 +5,7 @@ file: /courses/21w-758-genre-fiction-workshop-spring-2013/be831bc07d43e62b0a5ea6
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments and Student Work
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: "The Haunting of Belfer \u2013 revised"
 uid: be831bc0-7d43-e62b-0a5e-a6ab3c518e11
 ---
 This resource contains information regarding the haunting of belfer.
-

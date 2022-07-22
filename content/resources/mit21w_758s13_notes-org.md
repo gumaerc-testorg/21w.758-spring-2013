@@ -5,6 +5,7 @@ file: /courses/21w-758-genre-fiction-workshop-spring-2013/1397b1b403488dab430ffb
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar and Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: "Instructor\u2019s Notes"
 uid: 1397b1b4-0348-8dab-430f-fbc90f0d93fb
 ---
 This resource contains information regarding instructor’s notes.
-

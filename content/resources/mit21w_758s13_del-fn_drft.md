@@ -5,6 +5,7 @@ file: /courses/21w-758-genre-fiction-workshop-spring-2013/aad8582da1fde7b8cd4a46
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments and Student Work
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: "Deliberately \u2013 revised"
 uid: aad8582d-a1fd-e7b8-cd4a-46807751b910
 ---
 This resource contains information regarding deliberately by Irina Onoprienko.
-

@@ -5,6 +5,7 @@ file: /courses/21w-758-genre-fiction-workshop-spring-2013/7be4863c1b7ead287e4ba1
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar and Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Additional Notes
 uid: 7be4863c-1b7e-ad28-7e4b-a1196939c3e3
 ---
 This resource contains information regarding additional notes.
-

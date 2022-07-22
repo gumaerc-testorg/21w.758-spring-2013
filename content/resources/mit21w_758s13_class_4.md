@@ -5,6 +5,7 @@ file: /courses/21w-758-genre-fiction-workshop-spring-2013/4e65f74462133701ebf000
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar and Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Class 4
 uid: 4e65f744-6213-3701-ebf0-0049e8a85b74
 ---
 This resource contains information regarding class 4.
-

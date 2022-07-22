@@ -5,6 +5,7 @@ file: /courses/21w-758-genre-fiction-workshop-spring-2013/67680070fc49f38e564e94
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar and Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Class 1
 uid: 67680070-fc49-f38e-564e-948e158ecb78
 ---
 This resource contains information regarding class 1.
-

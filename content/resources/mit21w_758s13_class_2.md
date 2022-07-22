@@ -5,6 +5,7 @@ file: /courses/21w-758-genre-fiction-workshop-spring-2013/a23da668901a0eb970e1ea
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar and Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Class 2
 uid: a23da668-901a-0eb9-70e1-eadb4094237c
 ---
 This resource contains information regarding class 2.
-
