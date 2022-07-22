@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: b8167cbc-8898-72c4-287b-28bd9e255af6
 title: Teaching MIT Students
 uid: dcaf70be-7e6c-e157-6cb6-00fa658bac39

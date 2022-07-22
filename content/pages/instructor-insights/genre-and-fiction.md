@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: b8167cbc-8898-72c4-287b-28bd9e255af6
 title: Genre and Fiction
 uid: cd4d5087-2ba6-92cf-5f8f-cef54fc3225c

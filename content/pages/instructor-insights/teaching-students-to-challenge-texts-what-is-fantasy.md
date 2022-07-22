@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: b8167cbc-8898-72c4-287b-28bd9e255af6
 title: 'Teaching Students to Challenge Texts: "What is Fantasy?"'
 uid: fad41871-0fb2-17fb-3f21-37562bb344c9
