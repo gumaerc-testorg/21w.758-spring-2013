@@ -27,7 +27,7 @@ The information I give in lecture is the jumping off point for talking about the
 Workshops
 ---------
 
-Workshop is the heart and soul of this and any fiction writing class. Every piece by every student gets workshopped, and we had time for people to have additional workshops as well. The rules I use for workshop come from my own professional workshop groups, which tend to be quite structured. I give a [handout (PDF)]({{< baseurl >}}/resources/mit21w_758s13_workshopping) that spells out both the rules of engaging with one another and the mechanics of running the workshop session. I always go over that in detail.
+Workshop is the heart and soul of this and any fiction writing class. Every piece by every student gets workshopped, and we had time for people to have additional workshops as well. The rules I use for workshop come from my own professional workshop groups, which tend to be quite structured. I give a {{% resource_link "c1fafcce-2444-1b3b-d1eb-cd875897c1f6" "handout (PDF)" %}} that spells out both the rules of engaging with one another and the mechanics of running the workshop session. I always go over that in detail.
 
 Assessment, Feedback, and Grading
 ---------------------------------
