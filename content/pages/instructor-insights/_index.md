@@ -48,11 +48,11 @@ Instructor Insights
 
 On the following pages, Shariann Lewitt describes various aspects of how she teaches _21W.758 Genre Fiction_.
 
-*   [Genre and Fiction]({{< baseurl >}}/pages/instructor-insights/genre-and-fiction)
-*   [Teaching Students to Challenge Texts: "What is Fantasy?"]({{< baseurl >}}/pages/instructor-insights/teaching-students-to-challenge-texts-what-is-fantasy)
-*   [Selecting and Approaching Books]({{< baseurl >}}/pages/instructor-insights/selecting-and-approaching-books)
-*   [Teaching MIT Students]({{< baseurl >}}/pages/instructor-insights/teaching-mit-students)
-*   [Course Components]({{< baseurl >}}/pages/instructor-insights/course-components)
+*   {{% resource_link "cd4d5087-2ba6-92cf-5f8f-cef54fc3225c" "Genre and Fiction" %}}
+*   {{% resource_link "fad41871-0fb2-17fb-3f21-37562bb344c9" "Teaching Students to Challenge Texts: \"What is Fantasy?\"" %}}
+*   {{% resource_link "a41bee25-68c6-a42c-f056-1dfa653dbc3a" "Selecting and Approaching Books" %}}
+*   {{% resource_link "dcaf70be-7e6c-e157-6cb6-00fa658bac39" "Teaching MIT Students" %}}
+*   {{% resource_link "fbfcb32a-55d7-6fb0-9875-19dffd4fb694" "Course Components" %}}
 
 Curriculum Information
 ----------------------
@@ -88,7 +88,7 @@ Wide variation, though most students were writing minors or concentrators.
 
 ### Typical Student Background
 
-The common interest of all the students in this course was a real love of whatever genre they read. They were all there to learn to write in one particular genre (almost all of them either science fiction or fantasy). Almost all had a previous writing class, primarily [_21W.755 Writing and Reading the Short Story_](/courses/21w-755-writing-and-reading-short-stories-spring-2012/) (the introductory fiction class at MIT), and several of them had one of the other introductory creative writing classes that emphasize creative non-fiction, poetry or autobiography. Many of them had been writing stories on their own for pleasure for a long time. Students brought a lot of enthusiasm to this class — they were deeply invested in the material and committed to improving their own work.
+The common interest of all the students in this course was a real love of whatever genre they read. They were all there to learn to write in one particular genre (almost all of them either science fiction or fantasy). Almost all had a previous writing class, primarily [_21W.755 Writing and Reading the Short Story_](/courses/21w-755-writing-and-reading-short-stories-spring-2012) (the introductory fiction class at MIT), and several of them had one of the other introductory creative writing classes that emphasize creative non-fiction, poetry or autobiography. Many of them had been writing stories on their own for pleasure for a long time. Students brought a lot of enthusiasm to this class — they were deeply invested in the material and committed to improving their own work.
 
 ### Enrollment Cap
 

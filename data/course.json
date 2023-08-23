@@ -34,7 +34,9 @@
   },
   "course_title": "Genre Fiction Workshop",
   "course_description": "Some argue that genre fiction is only a marketing category, but other critics say that different genres meet specific expectations of readers. This course examines these different agreements of what the reader wants and what the writer provides under the aegis of different genres. We will look at how genres are divided into subgenres, and how they are combined into cross-genre work, always keeping in mind the Reader-Writer Contact that is at the heart of genre writing. We shall also think about the ways in which crossing genres has led to the establishment of new genres (steampunk, preternatural romance) and strongly established subgenres (historical mystery, urban fantasy).\n",
-  "department_numbers": [],
+  "department_numbers": [
+    "CMS-W"
+  ],
   "extra_course_numbers": "",
   "primary_course_number": "21W.758",
   "course_image_thumbnail": {
@@ -42,8 +44,10 @@
     "website": "21w-758-genre-fiction-workshop-spring-2013"
   },
   "learning_resource_types": [
-    "Written Assignments with Examples"
+    "Written Assignments with Examples",
+    "Instructor Insights"
   ],
-  "site_uid": "c9dc3f8b-e43b-4b9d-a5fc-1d6ebf4480df",
+  "site_uid": "ded00c22-f972-43ae-b4fd-a448b1248e41",
+  "site_short_id": "21w.758-spring-2013",
   "title": "Course Metadata"
 }
