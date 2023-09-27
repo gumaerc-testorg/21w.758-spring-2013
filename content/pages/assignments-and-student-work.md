@@ -27,10 +27,10 @@ These pieces are intended to demonstrate some of the range of different kinds of
 High Caliber Men by Alex Sailsman
 {{< tdclose >}}
 {{< tdopen >}}
-[First draft (PDF)]({{< baseurl >}}/resources/mit21w_758s13_hcm-fr_drft) (Courtesy of Alex Sailsman. Used with permission.)
+{{% resource_link "4a6f9a32-8866-f627-f70a-de7f62023917" "First draft (PDF)" %}} (Courtesy of Alex Sailsman. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
-[Revised (PDF)]({{< baseurl >}}/resources/mit21w_758s13_hcm-rev) (Courtesy of Alex Sailsman. Used with permission.)
+{{% resource_link "e5d27aec-e286-9370-598e-0aaea3816a5a" "Revised (PDF)" %}} (Courtesy of Alex Sailsman. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -39,10 +39,10 @@ High Caliber Men by Alex Sailsman
 The Haunting of Belfer by Neal Akatsuka
 {{< tdclose >}}
 {{< tdopen >}}
-[First draft (PDF)]({{< baseurl >}}/resources/mit21w_758s13_aka-fr_drft) (Courtesy of Neal Akatsuka. Used with permission.)
+{{% resource_link "05a11ed4-535f-926b-8a8d-50c8af32b39e" "First draft (PDF)" %}} (Courtesy of Neal Akatsuka. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
-[Revised (PDF)]({{< baseurl >}}/resources/mit21w_758s13_aka-fn_drft) (Courtesy of Neal Akatsuka. Used with permission.)
+{{% resource_link "be831bc0-7d43-e62b-0a5e-a6ab3c518e11" "Revised (PDF)" %}} (Courtesy of Neal Akatsuka. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,10 +51,10 @@ The Haunting of Belfer by Neal Akatsuka
 Deliberately by Irina Onoprienko
 {{< tdclose >}}
 {{< tdopen >}}
-[First draft (PDF)]({{< baseurl >}}/resources/mit21w_758s13_del-fr_drft) (Courtesy of Irina Onoprienko. Used with permission.)
+{{% resource_link "9b74b288-f671-e4c0-ba44-895d4d538368" "First draft (PDF)" %}} (Courtesy of Irina Onoprienko. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
-[Revised (PDF)]({{< baseurl >}}/resources/mit21w_758s13_del-fn_drft) (Courtesy of Irina Onoprienko. Used with permission.)
+{{% resource_link "aad8582d-a1fd-e7b8-cd4a-46807751b910" "Revised (PDF)" %}} (Courtesy of Irina Onoprienko. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,10 +63,10 @@ Deliberately by Irina Onoprienko
 How to Start a Zombie Apocalypse by an MIT Student
 {{< tdclose >}}
 {{< tdopen >}}
-[First draft (PDF)]({{< baseurl >}}/resources/mit21w_758s13_htsa-fr_drft) (Courtesy of an MIT Student. Used with permission.)
+{{% resource_link "e2a7b587-a6cf-679d-445e-87fbd8df70c0" "First draft (PDF)" %}} (Courtesy of an MIT Student. Used with permission.)
 {{< tdclose >}}
 {{< tdopen >}}
-[Revised (PDF)]({{< baseurl >}}/resources/mit21w_758s13_htsza-rev) (Courtesy of an MIT Student. Used with permission.)
+{{% resource_link "b797307a-794d-b47c-3a59-54cc7f7989ac" "Revised (PDF)" %}} (Courtesy of an MIT Student. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}

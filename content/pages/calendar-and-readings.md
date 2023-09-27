@@ -32,7 +32,7 @@ READINGS
 
 What is genre fiction? Is it something real and specific or simply a marketing category? What genres particularly interest the members of this class?
 
-[Instructor's notes (PDF)]({{< baseurl >}}/resources/mit21w_758s13_class_1)
+{{% resource_link "67680070-fc49-f38e-564e-948e158ecb78" "Instructor's notes (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -50,7 +50,7 @@ What is genre fiction? Is it something real and specific or simply a marketing c
 
 How do we recognize an individual work as belonging to a particular genre? How do we define the edges of the genres?
 
-[Instructor's notes (PDF)]({{< baseurl >}}/resources/mit21w_758s13_class_2)
+{{% resource_link "a23da668-901a-0eb9-70e1-eadb4094237c" "Instructor's notes (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -70,7 +70,7 @@ The Reader Writer Contract
 
 Subgenres
 
-[Instructor's notes (PDF)]({{< baseurl >}}/resources/mit21w_758s13_class_3)
+{{% resource_link "57f7110c-3872-9ff9-d642-e7c69c20884e" "Instructor's notes (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -88,7 +88,7 @@ Subgenres
 
 Suspense, Structure, and Keeping/Telling Secrets
 
-[Instructor's notes (PDF)]({{< baseurl >}}/resources/mit21w_758s13_class_4)
+{{% resource_link "4e65f744-6213-3701-ebf0-0049e8a85b74" "Instructor's notes (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -106,7 +106,7 @@ Sayers, Dorothy. _The Nine Tailors._ Mariner Books, 1966. ISBN: 9780156658997.
 
 Trope and Cliché
 
-[Instructor's notes (PDF)]({{< baseurl >}}/resources/mit21w_758s13_class_5)
+{{% resource_link "1638a049-3c75-1a6b-0701-ec9d7bb550da" "Instructor's notes (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -124,7 +124,7 @@ Jones, Diana Wynn. _The Tough Guide to Fantasyland: The Essential Guide to Fanta
 
 Building the World
 
-[Instructor's notes (PDF)]({{< baseurl >}}/resources/mit21w_758s13_class_6)
+{{% resource_link "8d0a3c17-8893-b400-a724-261b03ff0e3d" "Instructor's notes (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -148,7 +148,7 @@ Teaching the Rules
 
 **First Piece Due**
 
-[Instructor's notes (PDF)]({{< baseurl >}}/resources/mit21w_758s13_class_7)
+{{% resource_link "cbcd76ea-d67e-493a-9845-22150471c98e" "Instructor's notes (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -172,12 +172,12 @@ _This book was determined by the genre interests of the class._
 
 Workshops
 
-[Instructor's additional notes (PDF)]({{< baseurl >}}/resources/mit21w_758s13_add_notes)
+{{% resource_link "7be4863c-1b7e-ad28-7e4b-a1196939c3e3" "Instructor's additional notes (PDF)" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Workshopping – The Rules of Engagement & The Mechanics (PDF)]({{< baseurl >}}/resources/mit21w_758s13_notes-org)
+{{% resource_link "1397b1b4-0348-8dab-430f-fbc90f0d93fb" "Workshopping – The Rules of Engagement & The Mechanics (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -292,4 +292,4 @@ Scotch Lecture
 
 {{< tableclose >}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Instructor's original handwritten notes (PDF - 9.1MB)]({{< baseurl >}}/resources/mit21w_758s13_notes-org)
+{{% resource_link "1397b1b4-0348-8dab-430f-fbc90f0d93fb" "Instructor's original handwritten notes (PDF - 9.1MB)" %}}
