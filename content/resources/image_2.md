@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21w-758-genre-fiction-workshop-spring-2013/84f2923bfbcb9d481679ab1d8ba0fdb9_Image_2.jpg
+file_size: 38015
 file_type: image/jpeg
 image_metadata:
   caption: ''
