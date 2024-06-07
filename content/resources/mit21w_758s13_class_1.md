@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding class 1.
 file: /courses/21w-758-genre-fiction-workshop-spring-2013/67680070fc49f38e564e948e158ecb78_MIT21W_758S13_Class_1.pdf
+file_size: 184146
 file_type: application/pdf
 learning_resource_types:
 - Readings
