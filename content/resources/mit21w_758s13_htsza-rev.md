@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding how to start a zombie apocalypse.
-file: /courses/21w-758-genre-fiction-workshop-spring-2013/b797307a794db47c3a5954cc7f7989ac_MIT21W_758S13_HTSZA-rev.pdf
+file: /ol-ocw-studio-app/courses/21w-758-genre-fiction-workshop-spring-2013/b797307a794db47c3a5954cc7f7989ac_MIT21W_758S13_HTSZA-rev.pdf
 file_size: 622414
 file_type: application/pdf
 learning_resource_types:

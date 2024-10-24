@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding deliberately by Irina Onoprienko.
-file: /courses/21w-758-genre-fiction-workshop-spring-2013/aad8582da1fde7b8cd4a46807751b910_MIT21W_758S13_del-Fn_drft.pdf
+file: /ol-ocw-studio-app/courses/21w-758-genre-fiction-workshop-spring-2013/aad8582da1fde7b8cd4a46807751b910_MIT21W_758S13_del-Fn_drft.pdf
 file_size: 144516
 file_type: application/pdf
 learning_resource_types:
