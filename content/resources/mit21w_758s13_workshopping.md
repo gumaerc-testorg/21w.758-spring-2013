@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information on workshopping: the rules of engagement
   & the mechanics.'
-file: /ol-ocw-studio-app/courses/21w-758-genre-fiction-workshop-spring-2013/c1fafcce24441b3bd1ebcd875897c1f6_MIT21W_758S13_Workshopping.pdf
+file: /courses/21w-758-genre-fiction-workshop-spring-2013/c1fafcce24441b3bd1ebcd875897c1f6_MIT21W_758S13_Workshopping.pdf
 file_size: 73780
 file_type: application/pdf
 learning_resource_types:
