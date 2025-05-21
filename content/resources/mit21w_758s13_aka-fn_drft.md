@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding the haunting of belfer.
-file: /ol-ocw-studio-app/courses/21w-758-genre-fiction-workshop-spring-2013/be831bc07d43e62b0a5ea6ab3c518e11_MIT21W_758S13_Aka-Fn_drft.pdf
+file: /courses/21w-758-genre-fiction-workshop-spring-2013/be831bc07d43e62b0a5ea6ab3c518e11_MIT21W_758S13_Aka-Fn_drft.pdf
 file_size: 103781
 file_type: application/pdf
 learning_resource_types:

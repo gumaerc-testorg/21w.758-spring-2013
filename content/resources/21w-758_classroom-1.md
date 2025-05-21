@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/21w-758-genre-fiction-workshop-spring-2013/f63fca3500d675db4b90111bb6c1da24_21W-758_classroom-1.jpg
+file: /courses/21w-758-genre-fiction-workshop-spring-2013/f63fca3500d675db4b90111bb6c1da24_21W-758_classroom-1.jpg
 file_size: 26885
 file_type: image/jpeg
 image_metadata:
