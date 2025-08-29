@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding class 4.
-file: /courses/21w-758-genre-fiction-workshop-spring-2013/4e65f74462133701ebf00049e8a85b74_MIT21W_758S13_Class_4.pdf
+file: /ol-ocw-studio-app/courses/21w-758-genre-fiction-workshop-spring-2013/4e65f74462133701ebf00049e8a85b74_MIT21W_758S13_Class_4.pdf
 file_size: 515239
 file_type: application/pdf
 learning_resource_types:

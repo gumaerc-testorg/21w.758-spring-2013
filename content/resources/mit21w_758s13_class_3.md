@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding class 3.
-file: /courses/21w-758-genre-fiction-workshop-spring-2013/57f7110c38729ff9d642e7c69c20884e_MIT21W_758S13_Class_3.pdf
+file: /ol-ocw-studio-app/courses/21w-758-genre-fiction-workshop-spring-2013/57f7110c38729ff9d642e7c69c20884e_MIT21W_758S13_Class_3.pdf
 file_size: 190871
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding high caliber men.
-file: /courses/21w-758-genre-fiction-workshop-spring-2013/4a6f9a328866f627f70ade7f62023917_MIT21W_758S13_HCM-Fr_drft.pdf
+file: /ol-ocw-studio-app/courses/21w-758-genre-fiction-workshop-spring-2013/4a6f9a328866f627f70ade7f62023917_MIT21W_758S13_HCM-Fr_drft.pdf
 file_size: 117863
 file_type: application/pdf
 learning_resource_types:
