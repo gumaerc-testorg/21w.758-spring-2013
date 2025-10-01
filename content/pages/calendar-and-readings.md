@@ -55,7 +55,7 @@ How do we recognize an individual work as belonging to a particular genre? How d
 
 {{< tdclose >}}
 {{< tdopen >}}
-Laetz, Brian, and Joshua J. Johnston. "[What is Fantasy?](http://dx.doi.org/10.1353/phl.0.0013)" _Philosophy and Literature_ 32, no. 1 (2008): 161–72.
+Laetz, Brian, and Joshua J. Johnston. "{{% resource_link "3092bc40-4e5d-4715-a391-52bbe71d26bd" "What is Fantasy?" %}}" _Philosophy and Literature_ 32, no. 1 (2008): 161–72.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -75,7 +75,7 @@ Subgenres
 
 {{< tdclose >}}
 {{< tdopen >}}
-[_The Reader Writer Contract_](http://chawnaschroeder.blogspot.com/2009/02/reader-writer-contract.html) by Chawna Schroeder
+{{% resource_link "12ce5f6b-a81c-4096-b329-6ff8914cf8d6" "_The Reader Writer Contract_" %}} by Chawna Schroeder
 {{< tdclose >}}
 
 {{< trclose >}}
