@@ -10,7 +10,7 @@ title: 'Teaching Students to Challenge Texts: "What is Fantasy?"'
 uid: fad41871-0fb2-17fb-3f21-37562bb344c9
 ---
 
-_In this section, Shariann Lewitt discusses why she intentionally chose a problematic reading (the article "{{% resource_link "744fcdd5-f079-4fe7-9203-cb1d7272774b" "_What is Fantasy?_" %}}"), what she hoped students would get from it, and how the class actually reacted._
+_In this section, Shariann Lewitt discusses why she intentionally chose a problematic reading (the article "[_What is Fantasy?_](http://muse.jhu.edu/journals/philosophy_and_literature/v032/32.1.laetz.html)"), what she hoped students would get from it, and how the class actually reacted._
 
 ![Notes on yellow lined paper. Notes say: "Laetz & Johnson- Get Lots Wrong (terrible sentences !!... Very cliche notion of fantasy- they clearly don't know the genre- be angry!)]({{< resource_file 84f2923b-fbcb-9d48-1679-ab1d8ba0fdb9 >}})
 
